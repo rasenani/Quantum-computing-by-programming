@@ -1,4 +1,3 @@
-# Basics-of-quantum-circuit
 # Basics of Quantum Circuit
 
 This section introduces the fundamentals of building and understanding quantum circuits using **Qiskit**.  
