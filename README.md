@@ -1,4 +1,7 @@
-# Quantum-Computing-by-programming
-Quantum-Computing-by-programming is a practical repo with interactive notebooks, code examples, and mini-projects using Qiskit &amp; PennyLane. Learn by building—from qubits &amp; gates to algorithms, protocols, and QML—with real hardware demos and challenges. 
-## Table of Contents
-1. [Fundamentals-of-quantum-gates](Fundamentals-of-quantum-gates/)
+# Basics-of-quantum-circuit
+# Basics of Quantum Circuit
+
+This section introduces the fundamentals of building and understanding quantum circuits using **Qiskit**.  
+It is designed for beginners who want a practical, hands-on approach to learning quantum computing.
+
+---
