@@ -1,2 +1,2 @@
-# Hands-on-Quantum-Computing
-Hands-on Quantum Computing is a practical repo with interactive notebooks, code examples, and mini-projects using Qiskit &amp; PennyLane. Learn by building—from qubits &amp; gates to algorithms, protocols, and QML—with real hardware demos and challenges. 
+# Fundamentals-of-quantum-gates
+Fundamentals-of-quantum-gates deals with the basic concepts and implementations of basic single and multi-qubit gates. The notebooks deal with some quirky behaviour of quantum gates, shows how a quantum gate is equivalent to a unitary transformation and helps cultivate an intuition for statevector manipulation using quantum gates in a quantum circuit.
